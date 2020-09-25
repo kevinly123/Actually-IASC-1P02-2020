@@ -2,12 +2,13 @@ body{
   background-color: red;
 }
 
-#block{
+.block{
   color: green;
   font-style: italic;
 }
 
-.text1{
-  font-size: 30px;
+
+li{
   display: inline;
+  font-size: 30px
 }
