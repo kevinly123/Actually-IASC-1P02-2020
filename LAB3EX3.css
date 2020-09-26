@@ -2,7 +2,8 @@
   font-family: arial;
   text-transform: uppercase;
 }
-
-.di{
-  border: solid 1px black;
+img{
+  border: 1px;
+  border-color: black;
+  border-style: solid;
 }
