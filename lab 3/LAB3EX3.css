@@ -1,8 +1,9 @@
 .text{
-  font-family: arial;
+  font-family: "arial", sans-serif;
   text-transform: uppercase;
 }
-
-.di{
-  border: solid 1px black;
+img{
+ border: 1px;
+ border-color: black;
+ border-style: solid;
 }
