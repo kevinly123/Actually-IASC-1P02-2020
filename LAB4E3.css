@@ -1,0 +1,36 @@
+
+body{
+
+background-color: white;
+
+}
+#green{
+  display: block;
+  background-color: green;
+  border: black 3px dashed;
+margin-top:5px;
+margin-left: 15px;
+margin-right: 15px;
+margin-bottom: 5px;
+}
+
+.red{
+  color: red;
+}
+
+.greentext{
+  color:green;
+  filter: brightness(85%);
+  margin-top: 20px;
+}
+
+.purple{
+  color: purple;
+}
+
+#green2{
+  background-color: green;
+}
+#background{
+  background-color: green;
+}
