@@ -1,0 +1,47 @@
+body{
+  background-color: white;
+}
+.purple{
+  border: purple 3px dashed;
+  height: 250px;
+  margin: auto;
+}
+.bot{
+text-align: center;
+}
+#bottom{
+  padding-top: 200px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.green{
+  color: green;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#color{
+  font-size: 25px;
+  color: orange;
+  margin: 30px auto;
+  height: 0;
+  line-height:200%;
+  margin: auto;
+}
+
+.red{
+  color: red;
+vertical-align: super;
+}
+
+#purple2{
+  color: purple;
+  font-size: 7px;
+  text-align: right;
+}
+.yellow{
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
