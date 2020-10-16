@@ -53,6 +53,7 @@ background-color: red;
 color: red;
 font-size: 30px;
 font-style: italic;
+border: black solid;
 }
 
 .marked span{
