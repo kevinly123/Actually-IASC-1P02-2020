@@ -1,0 +1,51 @@
+#wrapper{
+width: 1000px;
+height: 600px;
+background-color:grey;
+margin: 0 auto;
+}
+#Pa p{
+text-align: center;
+color: red;
+border: black solid;
+height: 50px;
+}
+
+
+#nav{
+width: 250px;
+height:450px;
+float: left;
+background-color: red;
+}
+#nav li{
+position: relative;
+left: -20px;
+}
+
+
+#header{
+width: 750px;
+Height:100px;
+float: left;
+background-color: blue;
+
+}
+#header p{
+text-align: center;
+font-size: 30px;
+}
+
+#content{
+Width:750px;
+Height: 350px;
+float:left;
+background-color: green;
+}
+#content p{
+text-align: center;
+font-size: 50px;
+}
+#footer p{
+  text-align: right;
+}
